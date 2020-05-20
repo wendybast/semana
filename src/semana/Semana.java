@@ -16,6 +16,7 @@ public class Semana {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //test
         int numDia;
         numDia=3;
         
